@@ -1,0 +1,16 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration IDE / OS
+.vscode/
+.idea/
+.DS_Store
+convert.py
+test_silixa_avec_fonctions.py
